@@ -1,0 +1,1 @@
+final String FIREBASE_URL = "https://quiz-d19da-default-rtdb.europe-west1.firebasedatabase.app";

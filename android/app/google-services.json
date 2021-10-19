@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323186207772",
+    "firebase_url": "https://quiz-d19da-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "quiz-d19da",
+    "storage_bucket": "quiz-d19da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323186207772:android:70ba39d1226f84834043d9",
+        "android_client_info": {
+          "package_name": "com.example.fluttertp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323186207772-5k8tkd4adpgfojacd41jiue5dtg0c0ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNHoEXoghY58JsA3pIrTHUQIaItazLMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323186207772-5k8tkd4adpgfojacd41jiue5dtg0c0ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
